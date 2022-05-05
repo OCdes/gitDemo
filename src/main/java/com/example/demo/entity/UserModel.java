@@ -5,4 +5,5 @@ public class UserModel {
     private Integer age;
     private String address;
     private String dept;
+    private String phone;
 }
